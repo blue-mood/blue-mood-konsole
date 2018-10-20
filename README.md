@@ -1,4 +1,4 @@
-# Blue Mood for Xresources
+# Blue Mood for Konsole
 
 This is a port of [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html) for KDE's terminal emulator, Konsole.
 
